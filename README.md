@@ -10,15 +10,15 @@ criteraia  | Specifications
 ---------- | ---------------
 Overall layout  | App is divided into 2 colums, 1 for each team
 Column contents | Each column contains a large column to keep current score for that team
-                | * Optionally, another TextView to keep track of fouls
+Column contents | * Optionally, another TextView to keep track of fouls
 Score Buttons   | Each column must contain multiple buttons, buttons track 
-                | * different kind of scoring or
-                | * buttons each track different metric (score, foul etc)
+Score Buttons   | * different kind of scoring or
+Score Buttons   | * buttons each track different metric (score, foul etc)
 Reset Button    | Layout contains a reset button
 Best Practices  | Code follows following best practices:
-                | * Text sizes are defined in sp  
-                | * Lengths are defined in sp
-                | * Paddings and margins used appropriately
+Best Practices              | * Text sizes are defined in sp  
+Best Practices              | * Lengths are defined in sp
+Best Practices             | * Paddings and margins used appropriately
 
 **Functionality
 
