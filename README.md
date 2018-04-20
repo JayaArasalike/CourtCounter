@@ -2,9 +2,9 @@
 This an app that allows a user to keep track of points within a game. 
 Court Counter is basketball score counting app which gives a user the ability to keep track of the score of two different teams.
 
-**Requirements
+__Requirements__
 
-**Layout
+__Layout__
 
 criteraia  | Specifications
 ---------- | ---------------
@@ -20,7 +20,7 @@ Best Practices              | * Text sizes are defined in sp
 Best Practices              | * Lengths are defined in sp
 Best Practices             | * Paddings and margins used appropriately
 
-**Functionality
+__Functionality__
 
 criteraia  | Specifications
 ---------- | ---------------
@@ -28,7 +28,7 @@ Errors          | Code runs without erros
 Score Buttons   | Each score button updates the TextView in its column by adding correct number of points              
 Reset Button    | The Reset button resets the scores on both TextViews
 
-**Code Readability
+__Code Readability__
 
 criteraia  | Specifications
 ---------- | ---------------
@@ -37,7 +37,7 @@ Naming Conventions | * "All methods are named by their intended effects or in th
 Style              | There are no unnecessary blank lines. One variable is declared per declaration line.
 Style              | * The code within a method is intended with respect to the method declaration line.
         
-**Output
+__Output__
 Final View
 
 ![Score Counter app](/images/scorekeeper.png)
