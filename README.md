@@ -33,9 +33,9 @@ Reset Button    | The Reset button resets the scores on both TextViews
 criteraia  | Specifications
 ---------- | ---------------
 Naming Conventions | "Any classes are named after the object they represent. All variables named by their intended contents"
-                   | * "All methods are named by their intended effects or in the style required by a callback interface"
+Naming Conventions | * "All methods are named by their intended effects or in the style required by a callback interface"
 Style              | There are no unnecessary blank lines. One variable is declared per declaration line.
-                   | * The code within a method is intended with respect to the method declaration line.
+Style              | * The code within a method is intended with respect to the method declaration line.
         
 **Output
 Final View
